@@ -95,7 +95,7 @@ Screenshots showcasing the dashboard and its key insights.
 
 **Tripti Roy**
 
-* 📧 Email: [triptyroy2902@gmail.com](mailto:triptyroy2902@gmail.com)
+
 * 💼 LinkedIn: https://linkedin.com/in/tripty-roy
 * 💻 GitHub: https://github.com/TROY3F9
 
