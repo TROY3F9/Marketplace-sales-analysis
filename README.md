@@ -10,7 +10,7 @@ This project was designed to help marketplace managers understand sales performa
 
 ---
 
-## 📌 Key Features & Insights
+##  Key Features & Insights
 
 Managers often struggle to track sales performance, identify trends, and understand customer behavior, making it difficult to optimize inventory, prioritize products, and plan effective marketing strategies. This project addresses these challenges by:
 
@@ -22,7 +22,7 @@ Managers often struggle to track sales performance, identify trends, and underst
 
 ---
 
-## 📈 Business Impact
+##  Business Impact
 
 * Helped decision-makers allocate resources more efficiently.
 * Enabled data-driven inventory planning and marketing decisions.
@@ -32,7 +32,7 @@ Managers often struggle to track sales performance, identify trends, and underst
 
 ---
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
 * Interactive sales trend visualizations
 * Marketplace performance analysis
@@ -43,21 +43,21 @@ Managers often struggle to track sales performance, identify trends, and underst
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
-### 📄 Online Sales Data.csv
+###  Online Sales Data.csv
 
 Raw sales dataset containing marketplace transactions.
 
-### 📄 Sales Exploratory Data Analysis.sql
+###  Sales Exploratory Data Analysis.sql
 
 SQL queries used for exploratory data analysis and business insights.
 
-### 📄 Marketplace Sales Analysis.pbix
+###  Marketplace Sales Analysis.pbix
 
 Power BI dashboard containing interactive reports and visualizations.
 
-### 📄 Dashboard Screenshots.pdf
+###  Dashboard Screenshots.pdf
 
 Screenshots showcasing the dashboard and its key insights.
 
