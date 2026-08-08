@@ -4,7 +4,7 @@ This project was designed to help marketplace managers understand sales performa
 
 ---
 
-# 🔗 Live Dashboard
+#  Live Dashboard
 
 [View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjdmYzhhYmUtZDYwMy00ZGY5LWE3NTgtYmE1YWE1ODcxMTg2IiwidCI6ImRiZDY2NjRkLTRlYjktNDZlYi05OWQ4LTVjNDNiYTE1M2M2MSIsImMiOjl9)
 
@@ -63,7 +63,7 @@ Screenshots showcasing the dashboard and its key insights.
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * SQL
 * Power BI
