@@ -70,15 +70,7 @@ Screenshots showcasing the dashboard and its key insights.
 
 ---
 
-## 🚀 How to Use
-
-1. Open **Marketplace Sales Analysis.pbix** in Power BI Desktop.
-2. Load the **Online Sales Data.csv** dataset if prompted.
-3. Explore the dashboard using interactive filters and visualizations.
-
----
-
-## 📌 Skills Demonstrated
+##  Skills Demonstrated
 
 * Data Analysis
 * SQL
@@ -91,14 +83,12 @@ Screenshots showcasing the dashboard and its key insights.
 
 ---
 
-## 📞 Contact
+##  Contact
 
 **Tripti Roy**
 
 
-* 💼 LinkedIn: https://linkedin.com/in/tripty-roy
-* 💻 GitHub: https://github.com/TROY3F9
+*  LinkedIn: https://linkedin.com/in/tripty-roy
+*  GitHub: https://github.com/TROY3F9
 
 ---
-
-⭐ If you found this project useful, consider giving it a **Star**!
